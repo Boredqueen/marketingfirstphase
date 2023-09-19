@@ -1,0 +1,10 @@
+body{background-color: pink;}
+
+.Cart-Items{display: flex;
+justify-content: space-between;
+background-color: white;}
+
+.cart{background-color: white;}
+
+.subtotal{font-size: 30px;
+font-weight: 100;}
